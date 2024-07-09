@@ -1,11 +1,2 @@
-# Sample Snack app
+ManageMenu is an intuitive app designed for seamless food menu management in restaurants and cafes. With ManageMenu, users can easily add new dishes, edit existing items, update descriptions and prices, and remove discontinued dishes. The app ensures your menu stays current and organized, making it simple to introduce new specials and culinary creations. ManageMenu provides a comprehensive solution for maintaining an appealing and up-to-date menu.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
